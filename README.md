@@ -1,5 +1,6 @@
 # Adaptive GAN: Customizing Generators for Adversarial Examples
 
+The implementation of this paper https://arxiv.org/abs/1806.10496
 
 ## Usage
 
