@@ -1,0 +1,1 @@
+from .input_helper import Mnist, Cifar10
